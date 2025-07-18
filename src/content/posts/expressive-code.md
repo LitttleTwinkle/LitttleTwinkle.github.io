@@ -1,6 +1,6 @@
 ---
-title: Expressive Code Exampl
-published: 2026-04-10
+title: Expressive Code Examp
+published: 2026-04-11
 description:  code blocks look in Markdown using Expressive Code.
 tags: [Markdown, Blogging, Demo]
 category: Examples

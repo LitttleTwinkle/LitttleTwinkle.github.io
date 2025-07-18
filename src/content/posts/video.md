@@ -1,6 +1,6 @@
 ---
-title: Include Video in the Postsssss
-published: 2023-09-01
+title: Include Video in the Postssss
+published: 2023-09-11
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Example, Video]
 category: Examples
@@ -11,7 +11,7 @@ Just copy the embed code from YouTube or other platforms, and paste it in the ma
 
 ```yaml
 ---
-title: Include Video in the Post
+title: Include Video in the Postsssssssss
 published: 2023-10-19
 // ...
 ---
@@ -26,3 +26,9 @@ published: 2023-10-19
 ## Bilibili
 
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1sf4y1b74k&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV14M411N7Gg&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
